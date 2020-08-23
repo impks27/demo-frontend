@@ -1,4 +1,4 @@
-package com.baeldung.spring.cloud.kubernetes.frontend;
+package com.k8s.spring.cloud.kubernetes.frontend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
