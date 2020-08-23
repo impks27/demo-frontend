@@ -9,14 +9,14 @@
 
          
      <properties>
-        <!--<spring-cloud-dependencies.version>Hoxton.SR4</spring-cloud-dependencies.version>
+        <spring-cloud-dependencies.version>Hoxton.SR4</spring-cloud-dependencies.version>
         <spring-cloud-starter-config.version>2.2.3.RELEASE</spring-cloud-starter-config.version>
         <spring-cloud-config-server.version>2.2.3.RELEASE</spring-cloud-config-server.version>
         <spring-cloud-starter-eureka.version>1.4.7.RELEASE</spring-cloud-starter-eureka.version>
         <spring-cloud-starter-feign.version>1.4.7.RELEASE</spring-cloud-starter-feign.version>
         <spring-cloud-starter-hystrix.version>1.4.7.RELEASE</spring-cloud-starter-hystrix.version>
         <spring-cloud-stream.version>3.0.6.RELEASE</spring-cloud-stream.version>
-        <spring-boot-starter-web.version>2.3.1.RELEASE</spring-boot-starter-web.version>-->
+        <spring-boot-starter-web.version>2.3.1.RELEASE</spring-boot-starter-web.version>
         <spring-boot-maven-plugin.version>2.3.1.RELEASE</spring-boot-maven-plugin.version>
     </properties>
 
